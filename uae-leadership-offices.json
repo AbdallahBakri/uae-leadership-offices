@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "sheikh_name": "H.H. Sheikh Mohamed bin Zayed Al Nahyan (MBZ)",
+    "title": "President of the UAE and Ruler of Abu Dhabi",
+    "emirate": "Abu Dhabi",
+    "royal_family": "Al Nahyan",
+    "personal_website": "https://www.mohamedbinzayed.ae"
+  },
+  {
+    "id": 2,
+    "sheikh_name": "H.H. Sheikh Tahnoon bin Zayed Al Nahyan",
+    "title": "Deputy Ruler of Abu Dhabi and National Security Advisor",
+    "emirate": "Abu Dhabi",
+    "royal_family": "Al Nahyan",
+    "personal_website": "https://www.tahnoonbinzayedofficial.ae"
+  },
+  {
+    "id": 3,
+    "sheikh_name": "H.H. Sheikh Mohammed bin Rashid Al Maktoum",
+    "title": "Vice President and Prime Minister of the UAE, Ruler of Dubai",
+    "emirate": "Dubai",
+    "royal_family": "Al Maktoum",
+    "personal_website": "https://www.sheikhmohammed.ae"
+  },
+  {
+    "id": 4,
+    "sheikh_name": "H.H. Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum (Fazza)",
+    "title": "Crown Prince of Dubai, Deputy PM and Minister of Defence",
+    "emirate": "Dubai",
+    "royal_family": "Al Maktoum",
+    "personal_website": "https://www.hamdan.ae"
+  },
+  {
+    "id": 5,
+    "sheikh_name": "H.H. Sheikh Hamdan bin Ahmed Al Maktoum",
+    "title": "Member of Dubai Royal Family",
+    "emirate": "Dubai",
+    "royal_family": "Al Maktoum",
+    "personal_website": "https://www.shkhamdan.ae"
+  },
+  {
+    "id": 6,
+    "sheikh_name": "H.H. Sheikh Dr. Sultan bin Mohammed Al Qasimi",
+    "title": "Supreme Council Member and Ruler of Sharjah",
+    "emirate": "Sharjah",
+    "royal_family": "Al Qasimi",
+    "personal_website": "https://www.sheikhdrsultan.ae"
+  },
+  {
+    "id": 7,
+    "sheikh_name": "H.H. Sheikh Saud bin Saqr Al Qasimi",
+    "title": "Supreme Council Member and Ruler of Ras Al Khaimah",
+    "emirate": "Ras Al Khaimah",
+    "royal_family": "Al Qasimi",
+    "personal_website": "https://www.saudbinsaqr.ae"
+  },
+  {
+    "id": 8,
+    "sheikh_name": "H.H. Sheikh Abdullah bin Rashid Al Mu'alla",
+    "title": "Deputy Ruler of Umm Al Quwain",
+    "emirate": "Umm Al Quwain",
+    "royal_family": "Al Mu'alla",
+    "personal_website": "https://www.sheikhabdullaalmualla.com"
+  }
+]
